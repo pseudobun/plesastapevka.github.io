@@ -1,0 +1,26 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Yo, I am Urban Vidovič",
+  "devDesc": "Software Engineer | Web3 | Music | Dogs",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-github",
+      "url": "https://github.com/plesastapevka"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/plesasta_pevka"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/urbanvidovic/"
+    },
+    {
+      "image": "fa-google",
+      "url": "mailto:urbanfoundit@gmail.com"
+    }
+  ]
+}
